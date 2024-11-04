@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+
+# How to Run
+1. Run shell as administrator 
+2. npm install aws-amplify @aws-amplify/ui-react
+3. npm run dev
